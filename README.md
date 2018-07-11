@@ -5,8 +5,6 @@ Current version traditional v.1.0.0
 
 This theme was developed and is maintained by the [Public Knowledge Project](https://pkp.sfu.ca/). 
 
-You can view a demo in: [Demonstration Journal of the Traditional Theme] (https://demo.publicknowledgeproject.org/ojs3/demo/index.php/trad)
-
 ## Installation
 The theme can be installed through **Plugin Gallery** in you Open Journal Systems website.
 
