@@ -4,6 +4,7 @@ An official theme for [OJS 3.1.1+](https://pkp.sfu.ca/ojs/) in a sunshine palett
 Current version traditional v.1.0.0
 
 This theme was developed and is maintained by the [Public Knowledge Project](https://pkp.sfu.ca/). 
+You can view a Demo in: (https://demo.publicknowledgeproject.org/ojs3/demo/index.php/trad)
 ## Installation
 The theme can be installed through **Plugin Gallery** in you Open Journal Systems website.
 
